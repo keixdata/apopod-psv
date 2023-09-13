@@ -1,4 +1,9 @@
 Polling Firm | Commissioners | Fieldwork Start | Fieldwork End | Scope | Sample Size | Participation | Precision | CDU+CSU | SPD | FDP | Linke | Grüne | Piraten | AfD | FW | Other
+YouGov | N/A | 2023-09-01 | 2023-09-06 | N | 1833 | N/A | 1 | 29 | 16 | 5 | 5 | 14 | N/A | 23 | N/A | 9
+Kantar | N/A | 2023-09-05 | 2023-09-05 | N | 1441 | N/A | 1 | 26 | 17 | 6 | 5 | 15 | N/A | 21 | N/A | 10
+Forsa | N/A | 2023-09-04 | 2023-09-04 | N | 2506 | N/A | 1 | 27 | 16 | 7 | 4 | 14 | N/A | 21 | N/A | 11
+INSA and YouGov | N/A | 2023-09-01 | 2023-09-04 | N | 2010 | N/A | 0.5 | N/A | 17.5 | 7.5 | 4.5 | 13.5 | N/A | 21.5 | N/A | 9
+Ipsos | N/A | 2023-09-01 | 2023-09-03 | N | 2000 | N/A | 1 | 26 | 17 | 8 | 6 | 14 | N/A | 21 | N/A | 8
 INSA and YouGov | N/A | 2023-09-01 | 2023-09-01 | N | 1195 | N/A | 1 | 27 | 18 | 7 | 5 | 13 | N/A | 21 | N/A | 9
 Infratest dimap | N/A | 2023-08-28 | 2023-08-30 | N | 1310 | N/A | 1 | 29 | 16 | 6 | 4 | 14 | N/A | 22 | N/A | 9
 Kantar | N/A | 2023-08-23 | 2023-08-29 | N | 1330 | N/A | 1 | 25 | 18 | 7 | 5 | 15 | N/A | 20 | N/A | 10
@@ -286,7 +291,6 @@ YouGov | N/A | 2022-09-09 | 2022-09-13 | N | 1635 | N/A | 1 | 29 | 16 | 6 | 7 | 
 Kantar | N/A | 2022-09-07 | 2022-09-13 | N | 1443 | N/A | 1 | 26 | 20 | 7 | 5 | 21 | N/A | 13 | N/A | 8
 Forsa | N/A | 2022-09-06 | 2022-09-13 | N | 2501 | N/A | 1 | 28 | 19 | 6 | 5 | 20 | N/A | 13 | N/A | 9
 INSA and YouGov | N/A | 2022-09-09 | 2022-09-12 | N | 2039 | N/A | 0.5 | N/A | 18 | 8 | 5.5 | 20 | N/A | 13.5 | N/A | 7
-INSA and YouGov | N/A | 2022-09-09 | 2022-09-12 | N | 2039 | N/A | 0.5 | 28 | 18 | 8 | 5.5 | 20 | N/A | 13.5 | N/A | 7
 INSA and YouGov | N/A | 2022-09-05 | 2022-09-09 | N | 1443 | N/A | 1 | 27 | 19 | 8 | 5 | 20 | N/A | 13 | N/A | 8
 Forschungsgruppe Wahlen | N/A | 2022-09-06 | 2022-09-08 | N | 1299 | 75.0 | 1 | 28 | 19 | 6 | 5 | 23 | N/A | 13 | N/A | 6
 Kantar | N/A | 2022-09-06 | 2022-09-06 | N | 1416 | N/A | 1 | 25 | 20 | 8 | 5 | 21 | N/A | 12 | N/A | 9
