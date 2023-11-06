@@ -1,4 +1,14 @@
 Polling Firm | Commissioners | Fieldwork Start | Fieldwork End | Scope | Sample Size | Participation | Precision | Lab | Con | Lib Dems | SNP | Plaid | UKIP | GPEW | SGP | Reform UK | Change UK | Other
+We Think | N/A | 2023-11-02 | 2023-11-03 | N | 1155 | N/A | 1 | 45 | 27 | 10 | 3 | N/A | N/A | N/A | N/A | 9 | N/A | N/A
+Techne UK | N/A | 2023-11-01 | 2023-11-02 | N | 1635 | N/A | 1 | 46 | 26 | 11 | 2 | N/A | N/A | N/A | N/A | 6 | N/A | 3
+YouGov | N/A | 2023-11-01 | 2023-11-01 | N | N/A | N/A | 1 | 44 | 23 | 9 | 3 | N/A | N/A | N/A | N/A | 9 | N/A | 1
+Find Out Now | N/A | 2023-10-31 | 2023-10-31 | N | 2461 | N/A | 1 | 45 | 23 | 11 | 4 | N/A | N/A | N/A | N/A | 8 | N/A | 3
+Deltapoll | N/A | 2023-10-27 | 2023-10-30 | N | 1546 | N/A | 1 | 46 | 25 | 11 | 2 | 0 | 2 | N/A | N/A | 7 | N/A | 1
+Redfield & Wilton Strategies | N/A | 2023-10-29 | 2023-10-29 | N | 2000 | N/A | 1 | 45 | 25 | 13 | 3 | N/A | N/A | N/A | N/A | 7 | N/A | 2
+Savanta | N/A | 2023-10-27 | 2023-10-29 | N | 2043 | N/A | 1 | 46 | 29 | 9 | 2 | N/A | N/A | N/A | N/A | 7 | N/A | 4
+We Think | N/A | 2023-10-26 | 2023-10-27 | N | 1189 | N/A | 1 | 46 | 26 | 10 | 3 | N/A | N/A | N/A | N/A | 7 | N/A | N/A
+Opinium | The Observer | 2023-10-25 | 2023-10-27 | N | 1433 | N/A | 1 | 42 | 27 | 10 | 3 | N/A | N/A | N/A | N/A | 8 | N/A | 2
+Techne UK | N/A | 2023-10-25 | 2023-10-26 | N | 1630 | N/A | 1 | 46 | 25 | 11 | 3 | N/A | N/A | N/A | N/A | 7 | N/A | 3
 YouGov | N/A | 2023-10-24 | 2023-10-25 | N | N/A | N/A | 1 | 48 | 24 | 9 | 4 | N/A | N/A | N/A | N/A | 8 | N/A | 2
 PeoplePolling | GB News | 2023-10-23 | 2023-10-23 | N | 1906 | N/A | 1 | 49 | 21 | 9 | N/A | N/A | N/A | N/A | N/A | 9 | N/A | N/A
 Redfield & Wilton Strategies | N/A | 2023-10-22 | 2023-10-22 | N | 2000 | N/A | 1 | 44 | 26 | 13 | 2 | N/A | N/A | N/A | N/A | 8 | N/A | 1
@@ -1288,8 +1298,8 @@ ComRes | Electoral Calculus | 2019-05-13 | 2019-05-17 | E | 4161 | N/A | 1 | 22 
 YouGov | Best For Britain and Hope Not Hate | 2019-05-08 | 2019-05-17 | E | 9260 | N/A | 1 | 15 | 9 | 17 | 3 | 1 | 3 | N/A | N/A | 34 | 4 | 3
 YouGov | Best For Britain and Hope Not Hate | 2019-05-08 | 2019-05-17 | N | 9260 | N/A | 1 | 24 | 24 | 18 | N/A | N/A | 2 | N/A | N/A | 18 | 2 | 1
 ComRes | Sunday Express and Mirror | 2019-05-15 | 2019-05-16 | E | 2041 | N/A | 1 | 23 | 9 | 16 | 3 | 1 | 2 | N/A | N/A | 31 | 4 | 1
-Opinium | The Observer | 2019-05-14 | 2019-05-16 | E | 2009 | N/A | 1 | 20 | 12 | 15 | 4 | N/A | 2 | N/A | N/A | 34 | 3 | N/A
 Opinium | The Observer | 2019-05-14 | 2019-05-16 | N | 2009 | N/A | 1 | 29 | 22 | 11 | 4 | 0 | 2 | N/A | N/A | 24 | 3 | 1
+Opinium | The Observer | 2019-05-14 | 2019-05-16 | E | 2009 | N/A | 1 | 20 | 12 | 15 | 4 | N/A | 2 | N/A | N/A | 34 | 3 | N/A
 Opinium | The Observer | 2019-05-14 | 2019-05-16 | N | 2009 | N/A | 1 | 29 | 22 | 11 | 4 | 0 | 2 | N/A | N/A | 24 | 3 | 1
 YouGov | The Times | 2019-05-12 | 2019-05-16 | E | 7192 | N/A | 1 | 15 | 9 | 16 | N/A | N/A | 3 | N/A | N/A | 35 | 5 | N/A
 YouGov | The Times | 2019-05-13 | 2019-05-14 | N | 1655 | N/A | 1 | 25 | 25 | 16 | N/A | N/A | 2 | N/A | N/A | 18 | 2 | 1
@@ -1311,8 +1321,8 @@ Survation | Good Morning Britain | 2019-05-08 | 2019-05-09 | E | 1303 | N/A | 1 
 Opinium | N/A | 2019-05-03 | 2019-05-07 | E | 2000 | N/A | 1 | 26 | 14 | 12 | 5 | 2 | 4 | N/A | N/A | 29 | 2 | 1
 Opinium | N/A | 2019-05-03 | 2019-05-07 | N | 1544 | N/A | 1 | 30 | 25 | 11 | 3 | 1 | 4 | N/A | N/A | 17 | 2 | N/A
 ComRes | Remain United | 2019-05-01 | 2019-05-07 | E | 4060 | N/A | 1 | 26 | 14 | 11 | 3 | 1 | 2 | N/A | N/A | 28 | 8 | 1
-YouGov | N/A | 2019-04-29 | 2019-04-30 | N | 1630 | N/A | 1 | 29 | 29 | 13 | N/A | N/A | 2 | N/A | N/A | 15 | 3 | 1
 YouGov | The Times | 2019-04-29 | 2019-04-30 | E | 1630 | N/A | 1 | 21 | 13 | 10 | N/A | N/A | 4 | N/A | N/A | 30 | 9 | 1
+YouGov | N/A | 2019-04-29 | 2019-04-30 | N | 1630 | N/A | 1 | 29 | 29 | 13 | N/A | N/A | 2 | N/A | N/A | 15 | 3 | 1
 YouGov | Hope Not Hate | 2019-04-23 | 2019-04-26 | E | 5412 | N/A | 1 | 22 | 13 | 7 | N/A | N/A | 5 | N/A | N/A | 28 | 10 | 1
 Opinium | The Observer | 2019-04-23 | 2019-04-25 | E | 1024 | N/A | 1 | 28 | 14 | 7 | 5 | 1 | 3 | N/A | N/A | 28 | 7 | N/A
 Survation | N/A | 2019-04-17 | 2019-04-25 | E | 1999 | N/A | 1 | 27 | 16 | 8 | 3 | 1 | 7 | N/A | N/A | 27 | 4 | 4
