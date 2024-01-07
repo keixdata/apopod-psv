@@ -1,4 +1,8 @@
 Polling Firm | Commissioners | Fieldwork Start | Fieldwork End | Scope | Sample Size | Participation | Precision | CDU+CSU | SPD | FDP | Linke | Grüne | Piraten | AfD | FW | Other
+Infratest dimap | N/A | 2024-01-02 | 2024-01-03 | N | 1321 | N/A | 1 | 31 | 14 | 5 | 4 | 13 | N/A | 22 | 3 | 8
+INSA and YouGov | N/A | 2024-01-02 | 2024-01-02 | N | 2002 | N/A | 0.5 | N/A | 15 | 5 | 4 | 13 | N/A | 22.5 | 3 | 5.5
+GMS | N/A | 2024-01-02 | 2024-01-02 | N | 1004 | N/A | 1 | 33 | 14 | 6 | 3 | 13 | N/A | 23 | 3 | 5
+INSA and YouGov | N/A | 2023-12-28 | 2023-12-29 | N | 1001 | N/A | 1 | 32 | 15 | 5 | 4 | 12 | N/A | 23 | 3 | 6
 INSA and YouGov | N/A | 2023-12-22 | 2023-12-27 | N | 2000 | N/A | 1 | N/A | 15 | 5 | 4 | 12 | N/A | 23 | 3 | 6
 INSA and YouGov | N/A | 2023-12-18 | 2023-12-22 | N | 1202 | N/A | 1 | 32 | 15 | 5 | 4 | 12 | N/A | 22 | 3 | 7
 Infratest dimap | N/A | 2023-12-18 | 2023-12-20 | N | 1210 | N/A | 1 | 32 | 14 | 5 | 3 | 14 | N/A | 21 | 4 | 7
@@ -1070,8 +1074,8 @@ INSA and YouGov | N/A | 2020-02-14 | 2020-02-17 | N | 2065 | N/A | 0.5 | N/A | 1
 Forsa | N/A | 2020-02-10 | 2020-02-14 | N | 2502 | 80.0 | 1 | 27 | 14 | 6 | 10 | 24 | N/A | 11 | N/A | 8
 Infratest dimap | N/A | 2020-02-11 | 2020-02-13 | N | 1007 | N/A | 1 | 26 | 16 | 7 | 9 | 22 | N/A | 14 | N/A | 6
 Kantar | N/A | 2020-02-06 | 2020-02-12 | N | 1886 | N/A | 1 | 28 | 15 | 6 | 10 | 20 | N/A | 15 | N/A | 6
-Allensbach | N/A | 2020-02-01 | 2020-02-12 | N | 1262 | N/A | 0.5 | 27.5 | 14.5 | 8 | 9.5 | 23 | N/A | 13 | N/A | 4.5
 Allensbach | N/A | 2020-02-01 | 2020-02-12 | N | 1262 | N/A | 0.5 | 27.5 | 14.5 | 9.0 | 9.5 | 23.0 | N/A | 13.0 | N/A | 3.5
+Allensbach | N/A | 2020-02-01 | 2020-02-12 | N | 1262 | N/A | 0.5 | 27.5 | 14.5 | 8 | 9.5 | 23 | N/A | 13 | N/A | 4.5
 INSA and YouGov | N/A | 2020-02-07 | 2020-02-10 | N | 2086 | N/A | 0.5 | N/A | 12.5 | 8 | 10 | 22 | N/A | 14 | N/A | 6
 Forsa | N/A | 2020-02-03 | 2020-02-07 | N | 2504 | N/A | 1 | 28 | 14 | 8 | 9 | 23 | N/A | 10 | N/A | 8
 Forschungsgruppe Wahlen | ZDF | 2020-02-04 | 2020-02-06 | N | 1067 | N/A | 1 | 27 | 14 | 6 | 10 | 22 | N/A | 14 | N/A | 7
